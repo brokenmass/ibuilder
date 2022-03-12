@@ -1,0 +1,19 @@
+{
+  "name": "ibuilder",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brokenmass/ibuilder.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brokenmass/ibuilder/issues"
+  },
+  "homepage": "https://github.com/brokenmass/ibuilder#readme"
+}
